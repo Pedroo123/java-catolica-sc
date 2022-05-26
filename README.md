@@ -1,2 +1,7 @@
-# java-catolica-sc
-Repositorio com algoritmos em Java, feitos na Catolica SC
+# Algoritmos em Java - Catolica SC
+
+- Repo com alguns algoritmos em Java, feitos na CATOLICA de Santa Catarina
+
+**Importante!**
+
+É PRA COPIAR MESMO!
